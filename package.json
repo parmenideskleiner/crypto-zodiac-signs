@@ -1,0 +1,29 @@
+{
+  "name": "crypto-zodiac-signs",
+  "version": "1.2.1",
+  "description": "Generate cryptocurrency icons based on zodiac signs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/parmenideskleiner/crypto-zodiac-signs"
+  },
+  "keywords": [
+    "cryptocurrency",
+    "zodiac",
+    "icons",
+    "astrology",
+    "finance"
+  ],
+  "author": "Evelyn Doyle",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-icons": "^3.2.0",
+    "zodiac-signs": "^1.2.0",
+    "d3": "^6.6.2",
+    "canvas": "^2.8.0",
+    "colors": "^1.4.0"
+  }
+}
